@@ -38,20 +38,20 @@ li:last-of-type{
 
 a[href^="http"]{
     color: blue;
-    text-decoration: black;
+    text-decoration: underline;
 }
 
 a[href^="http"]:visited{
     color: red;
-    text-decoration: green;
+    text-decoration:none;
 }
 
 a[href^="http"]:active{
-    color: orange;
-    text-decoration: yellow;
+    color: black;
+    text-decoration:overline;
 }
 
 a[href^="http"]:hover{
-    color: pink;
-    text-decoration: darkblue;
+    color: yellow;
+    text-decoration:line-through;
 }
