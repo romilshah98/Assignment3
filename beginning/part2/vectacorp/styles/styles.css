@@ -22,10 +22,6 @@ a,h2{
     color: #CC1C0D;
 }
 
-.pricing{
-    width: 960px;
-}
-
 .pricing div{
     float: left;
     border: #DFE3E6 2px solid ;
@@ -35,13 +31,26 @@ a,h2{
     min-width: 232px;
     min-height: 270px;
     text-align: center;
+    padding-top: 10px;
+}
+
+.pricing h3{
+    border-top: 10px solid #000000; 
+}
+
+/* .pricing h3:first-child{
+    margin-top: 43px;
+} */
+
+.pricing img{
+    margin-top: 10px;
 }
 
 #vprospect, #vconvert ,#vretain{
     font-weight: bold;
 }
 
-section img{
+section > img{
     border: #cc1d0c 3px solid;
     border-radius: 3em;
     float: left;
