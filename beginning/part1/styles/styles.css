@@ -14,7 +14,7 @@ p:first-of-type::first-letter{
     font-size: 30px;
 }
 
-.solution{
+.solution::first-line{
     color: #CC1C0D;
     font-weight: bold;
 }
