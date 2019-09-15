@@ -7,7 +7,7 @@ This part contains only 1 page and a css file:
 > This page contains general information about Vecta Corporation, its solutions, client testimonials, contact information and details of management team.
 * Styles.css
 > It just contains the styling of Home page.
-#### part1
+#### part2
 This part contains 5 pages and a css file:
 * Home
 > This page contains general information about Vecta Corporation, its solutions and client testimonials.
