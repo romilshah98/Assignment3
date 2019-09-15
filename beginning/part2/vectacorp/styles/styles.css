@@ -53,9 +53,6 @@ a,h2{
     border-top: 10px solid #CC1C0D; 
 }
 
-.pricing img h3{
-    margin-top: 10px;
-}
 
 #vprospect, #vconvert ,#vretain{
     font-weight: bold;
@@ -79,10 +76,7 @@ p img{
     margin-right: 10px;
 }
 
-/* .pricing div img{
-    float: none;
-    border: none;
-    margin-top: 20px;
-    margin-bottom: 20px;
-} */
+section > div > h3{
+    padding-top: 10px;
+}
 
