@@ -8,7 +8,11 @@ body{
 
 ul:first-of-type{
     list-style-type:none;
-    padding: 0px
+    padding: 0px;
+}
+
+ul li ul{
+    margin-left: 40px;
 }
 
 h2{
